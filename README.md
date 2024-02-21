@@ -1,9 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://github.com/ferdezjuani/vscode-vault-app/assets/63978504/58874342-9dd3-4ff0-9b12-5e6d4f094391" />
-
-
   <h3 align="center">VSCode Vault 🚀</h3>
 
   <p align="center">
@@ -45,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/ferdezjuani/vscode-vault-app/assets/63978504/58874342-9dd3-4ff0-9b12-5e6d4f094391" />
 
 In my daily life as software developer I have asked many times to my teammates "hey, what's that extension?!". 
 
