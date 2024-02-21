@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![image](https://github.com/ferdezjuani/vscode-vault-app/assets/63978504/58874342-9dd3-4ff0-9b12-5e6d4f094391)
+  <img src="https://github.com/ferdezjuani/vscode-vault-app/assets/63978504/58874342-9dd3-4ff0-9b12-5e6d4f094391" />
 
 
   <h3 align="center">VSCode Vault 🚀</h3>
