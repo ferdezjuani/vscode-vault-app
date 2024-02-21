@@ -123,6 +123,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Juani Fernández - [@your_twitter](https://twitter.com/ferdezjuani) - dev.ferdezjuani@gmail.com.com
+Juani Fernández - [@ferdezjuani](https://twitter.com/ferdezjuani) - dev.ferdezjuani@gmail.com.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
